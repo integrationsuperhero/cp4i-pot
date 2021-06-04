@@ -1,7 +1,5 @@
 # IBM App Connect Enterprise
 
-[Return to main lab page](../index.md)
-
 ## Distributing workload using ACE v11 Callable Flows
 ### Featuring:
 - Callable Flows
@@ -45,9 +43,6 @@ You now have a integration servers running: TEST_SERVER running with defaults se
 
 ## 2.1.1 Import MyCallableFlows <a name="import_mycallableflows"></a>
 In this section we use the App Connect Enterprise Toolkit (Enterprise Toolkit) to develop and deploy a simple callable flow into an on-premises ACE integration server so that the flow is visible in Cloud Pak for Integration.
-
-Now download the **MyCallableFlows-PI.zip** 
-    Click here and save the zip file - [MyCallableFlows-PI.zip](MyCallableFlows-PI.zip)
 
 The sample we will be using a Trace node to write a copy of the incoming payload to a file and a Compute node to modify the incoming message to add a status element.
 In this next section you will import the application into your workspace so that you can review what it will do. 

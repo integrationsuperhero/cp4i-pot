@@ -35,7 +35,7 @@ In this section we use App Connect Designer to create a flow that will be expose
 
 ![alt text][pic0]
 
-2\. When prompted use the username and password provided to you for this lab. In this example we are using wedge10.
+2\. When prompted use the username and password provided to you for this lab. In this example we are using chopper9.
 
 ![alt text][pic1]
 
@@ -202,6 +202,9 @@ Make sure your API is running by checking the upper pane of your Designer instan
 
 # 2b Add an Additional Operation for our Salesforce API <a name="add_an_additional_operation_for_our_salesforce_API"></a>
 In this section we will add an additional operation to get Account by ID.
+First we will stop the API
+
+![alt text][pic26a]
 
 1\. Now we will go back to the Define tab of our API to add another operation. First select to add another operation and select the Retrieve SalesforceRetrieve by ID. 
 
@@ -228,6 +231,7 @@ Click on the **Salesforce / Retrieve accounts / Accounts** mapping and select Ac
 
 5\. We are now ready to start the API and test the new operation. 
 
+[pic26a]: images/26a.png
 [pic26]: images/26.png
 [pic27]: images/27.png
 [pic28]: images/28.png

@@ -1,8 +1,6 @@
 ## Introduction
 These labs will cover both the ACE Toolkit and ACE Designer to build integrations. We will be creating APIs with Designer and then also import them into APIC.   Will also cover labs on the Asset Repository and Operations Dashboard for tracing. 
 
-[Return to Integration page](../index.md)
-
 ## Lab Abstracts
 
 |  Subject                            | Description                                            |                                                               

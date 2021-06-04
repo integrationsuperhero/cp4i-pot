@@ -1,8 +1,6 @@
 ## Introduction
 These labs will focuse on the API connect capiblies.
 
-[Return to main lab page](../index.md)
-
 **Lab Abstracts**
 
 [Lab 1 : Create and Secure an API to Proxy an Existing REST Web

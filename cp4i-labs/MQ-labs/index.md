@@ -1,9 +1,6 @@
 ## Introduction
 These labs will cover MQ on Cloud Pak for Integration. 
 
-[Return to main lab page](../index.md)
-
-
 ## Lab Abstracts
 
 |  Subject                       | Description                                                                                         |                                                               
