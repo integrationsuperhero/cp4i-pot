@@ -2,6 +2,7 @@
 
 ## App Connect Designer Salesforce
 
+[Return to main lab page](../index.md)
 
 ---
 
@@ -339,6 +340,8 @@ Now we can export our Designer flow App Connect Dashboard on Cloud Pak for Integ
 
 16\. You can click on your Integration Server and then click on the API that is running inside of it. This is where you will be able to download your OpenAPI Swagger document which will be utilized to export your Integration Flow to IBM API Connect.
 ![alt text][pic51]
+
+[Return to main lab page](../index.md)
 
 [pic37]: images/37.png
 [pic38]: images/38.png

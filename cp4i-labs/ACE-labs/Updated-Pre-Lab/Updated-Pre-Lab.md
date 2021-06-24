@@ -1,5 +1,6 @@
 # Generating credentials for Designer connectors on CP4i
 
+[Return to main lab page](../index.md)
 
 ## Salesforce Connector
 
@@ -132,6 +133,7 @@ Once through click on Allow and it will give you Access Token and Refresh Tokens
 
 ![alt text][pic25]
 
+[Return to main lab page](../index.md)
 
 
 [pic0]: images/0.png

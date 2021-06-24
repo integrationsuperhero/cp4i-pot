@@ -33,8 +33,8 @@ with minimal impact to existing applications. Therefore, this
 Integration Bus provides a communications architecture supporting
 software applications that:
 
-[**IBM MQ**](https://pages.github.ibm.com/cloudintegration/PoT-messaging/index.html){:target="_blank"}
-
+[//]: # [**IBM MQ**](https://pages.github.ibm.com/cloudintegration/PoT-messaging/index.html){:target="_blank"}
+[**IBM MQ Labs coming soon**] 
 IBM MQ is the world's leading messaging technology.
 
 Provides quick, secure, and reliable messaging, from mainframe to

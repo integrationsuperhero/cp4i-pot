@@ -48,6 +48,10 @@ helps to solve..**
 |---------------------------------------|-----------------------------------------------------------------------------|
 | [Integration Labs](ACE-labs/index.md)         | This section will cover labs using both the ACE Toolkit and ACE Designer to build integrations. When creating APIs with Designer you will also import them into APIC. |                                     
 
+
+[//]: # (| [Additional Integration Labs](Additional-labs/index.md)         | This section will cover labs using both the ACE Toolkit and ACE Designer to build integrations. When creating APIs with Designer you will also import them into APIC. |)                                        
+[//]: # (| [APIC labs](APIC-Labs/index.md)          | This section you will explore the following key capabilities, Creating an API by importing an OpenAPI definition for an existing REST service, Configuring ClientID/Secret Security endpoints, and proxy to invoke endpoint.  Also testing a REST API in the online developer toolkit and publish an API for developers. |)
+[//]: # (| [MQ labs](MQ-labs/index.md)          | This section includes numerous options for running MQ on CP4I.    |    )
                  
 
 

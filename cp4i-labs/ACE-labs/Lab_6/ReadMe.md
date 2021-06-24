@@ -3,7 +3,7 @@
 
 ## API lifecycle include creating, running, managing, and securing APIs
 
-
+[Return to main lab page](../index.md)
 ---
 
 # Table of Contents 
@@ -478,3 +478,5 @@ Click the Send several times to invoke the API.
 # 6. Summary <a name="summary"></a>
 
 To recap the APIC portion of this lab, we as user of an organization logged into our API Manager and through an open API document created and secured an API. We then created a product around this API and published it to our Catalog to be discovered and consumed by developers. From the developer’s perspective we logged into the developer portal of the Sand Box catalog and created an Application.  This application allowed us to subscribe to any product in the catalog available to us and test it. 
+
+[Return to main lab page](../index.md)

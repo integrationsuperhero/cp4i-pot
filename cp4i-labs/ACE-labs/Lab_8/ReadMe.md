@@ -2,6 +2,7 @@
 
 ## Operations Dashboard
 
+[Return to main lab page](../index.md)
 ---
 
 # Table of Contents 
@@ -831,3 +832,5 @@ If prompted, log in with the username and password provided to you for this lab.
 
 # Congratulations!
 You have completed the IBM Cloud Pak for Integration Operations Dashboard lab.
+
+[Return to main lab page](../index.md)

@@ -2,6 +2,7 @@
 
 ## Asset Repository
 
+[Return to main lab page](../index.md)
 ---
 
 # Table of Contents 
@@ -593,3 +594,5 @@ We will now clean-up the environment.
 
 # Congratulations!
 You have completed the IBM Cloud Pak for Integration Asset Repository lab.
+
+[Return to main lab page](../index.md)

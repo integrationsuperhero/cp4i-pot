@@ -303,4 +303,6 @@ Click on the 3 dots and select Start API on the right side.
 [pic37]: images/37.png
 [pic38]: images/38.png
 
+[Return to main lab page](../index.md)
+
 # <span style="color:teal">END OF LAB GUIDE</span>

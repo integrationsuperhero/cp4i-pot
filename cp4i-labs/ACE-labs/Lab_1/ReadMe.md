@@ -380,5 +380,7 @@ Where:<span style="color: red"> is-toolkit1-basic </span> is the *name of your s
 ![alt text][pic44]
 
 [pic44]: images/44.png
+   
+[Return to main lab page](../index.md)
 
 # <span style="color:teal">END OF LAB GUIDE</span>

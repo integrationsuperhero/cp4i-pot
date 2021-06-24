@@ -1,5 +1,6 @@
 # Generating credentials for Designer connectors on CP4i
 
+[Return to main lab page](../index.md)
 
 ## Salesforce Connector
 
@@ -105,6 +106,8 @@ Configure GET NEW ACCESS TOKEN panel with following details:
 Click on Request token and it will kick start OAuth web dance. You will require your admin username/pwd to authenticate yourself with web dance.
 
 Once through click on Allow and it will give you Access Token and Refresh Tokens generated for you. Store them for future use.
+
+[Return to main lab page](../index.md)
 
 [pic0]: images/0.png
 [pic1]: images/1.png

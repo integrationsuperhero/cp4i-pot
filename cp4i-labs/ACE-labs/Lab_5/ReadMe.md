@@ -2,6 +2,7 @@
 
 ## App Connect Designer ServiceNow
 
+[Return to main lab page](../index.md)
 
 ---
 
@@ -360,6 +361,8 @@ Once it is up and running it will show the following:
 
 15\. You will see the following results.
 ![alt text][pic52]
+
+[Return to main lab page](../index.md)
 
 [pic38]: images/38.png
 [pic39]: images/39.png

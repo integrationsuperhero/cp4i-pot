@@ -3,6 +3,7 @@
 
 ## API lifecycle include creating, running, managing, and securing APIs
 
+[Return to main lab page](../index.md)
 
 ---
 
@@ -433,6 +434,8 @@ The Client ID will have the App name we created earlier.   You will need to copy
 24\. This will give you info on the APIs that you are running. 
 
 ![alt text][pic59]
+
+[Return to main lab page](../index.md)
 
 The End.
 
